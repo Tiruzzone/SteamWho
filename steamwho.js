@@ -1311,6 +1311,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Aggiunta di un gestore di eventi per il clic sul bottone
     button.addEventListener("click", function() {
-        window.location.href = "main.html";
+        window.location.href = "index.html";
     });
   });
